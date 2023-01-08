@@ -1,0 +1,51 @@
+id,advanced_degrees,bachelors_degrees,coastline_length,population_density,forest_cover,high_school_graduate_percent,land_area_miles,median_household_income,obese_adults_percent,obese_children_percent,overweight_adults_percent,per_capita_income,population,region,target
+Maryland,17.3,37.9,31,618,37.9,89.4,9707,75847,25.2,13.3,61.5,36338,6006401,South Atlantic,decriminalized
+Hawaii,10.5,30.8,750,222,17,91,6423,73486,20.7,13.3,55.3,29736,1431603,Pacific,medical
+Alaska,10.1,28,6640,1,30.4,92.1,570641,73355,27.3,11.1,64.5,33062,738432,Pacific,legal
+New Jersey,14,36.8,130,1218,39.5,88.6,7354,72222,22.9,13.7,60.5,37288,8958013,Mid-Atlantic,medical
+Connecticut,16.6,37.6,96,741,54.7,89.9,4842,71346,20.8,12.3,58.7,39373,3590886,New England,decriminalized
+Massachusetts,17.7,40.5,192,871,52.5,89.8,7800,70628,20.9,13.6,56.8,36593,6794422,New England,legal
+New Hampshire,13,34.9,13,148,77.5,92,8953,70303,23.6,12.9,60.8,34691,1330608,New England,decriminalized
+Virginia,15.4,36.3,112,212,60.7,88.3,39490.09,66262,25.2,13.8,61.6,34052,8382993,South Atlantic,misdemeanor
+California,11.6,31.4,840,251,17.8,81.8,163696,64500,23.1,13.2,59.4,30441,39144818,Pacific,legal
+Washington,12,32.9,157,107,40.7,90.4,66456,64129,24.5,10.8,60.7,31841,7170351,Pacific,legal
+Colorado,14,38.1,0,52,17.5,90.7,103642,63909,21,9.9,55,32357,5456574,Mountain,legal
+Minnesota,11.2,33.7,0,68,28.9,92.4,79627,63488,24.8,10.1,61.9,32638,5489594,West North Central,decriminalized
+Utah,10.4,31.1,0,36,8.9,91.2,82170,62912,21.8,8.5,56.4,24877,2995919,Mountain,misdemeanor
+Delaware,12.2,30,28,485,30,88.4,1949,61255,25.9,22.8,63.9,30488,945934,South Atlantic,decriminalized
+New York,14.8,34.2,127,420,50.9,85.6,47126,60850,23.5,15.3,60,33095,19795791,Mid-Atlantic,decriminalized
+North Dakota,7.6,27.7,0,10,1,91.7,69001,60557,25.9,12.1,64.5,33071,756927,West North Central,medical
+Wyoming,8.6,25.7,0,6,9.2,92.3,97093,60214,24,8.7,61.7,29698,586107,Mountain,misdemeanor
+Illinois,12.4,32.3,0,231,11.5,87.9,55519,59588,25.3,15.8,61.8,30417,12859995,East North Central,decriminalized
+Rhode Island,12.8,31.9,40,1021,50.8,86.2,1034,58073,21.4,11.9,60.4,30830,1056298,New England,decriminalized
+Vermont,14.3,36,0,67,75.7,91.8,9217,56990,21.1,11.3,56.9,29178,626042,New England,decriminalized
+Pennsylvania,11.2,28.6,0,286,55.3,89.2,44743,55702,25.7,13.3,61.9,29220,12802503,Mid-Atlantic,medical
+Texas,9.4,27.6,367,105,7,81.9,261232,55653,27.2,19.1,64.1,27125,27469114,West South Central,misdemeanor
+Wisconsin,9.4,27.8,0,106,45.2,91,54158,55638,25.5,13.5,62.4,28213,5771337,East North Central,misdemeanor
+Nebraska,9.7,29.3,0,24,1.8,90.7,76824,54996,26.5,11.9,63.9,27446,1896190,West North Central,decriminalized
+Iowa,8.5,26.7,0,55,5.4,91.5,55857,54736,26.3,12.5,63.4,28361,3123899,West North Central,medical
+Oregon,11.5,30.8,296,41,38.8,89.8,95988,54148,25,14.1,60.8,27646,4028977,Pacific,legal
+Kansas,11,31,0,36,2.8,90.2,81759,53906,25.8,14,62.3,27870,2911641,West North Central,misdemeanor
+South Dakota,8,27,0,11,3.1,90.9,75811,53017,26.1,12.1,64.2,26959,858469,West North Central,misdemeanor
+Nevada,7.9,23,0,26,0.5,85.1,109781,52431,23.6,12.4,61.8,25773,2890845,Mountain,legal
+Maine,10.3,29,228,43,89,91.6,30843,51494,23.7,12.7,60.8,27978,1329328,New England,legal
+Arizona,10.2,27.5,0,60,4.8,86,113594,51492,23.3,12.2,59.5,25715,6828065,Mountain,medical
+Georgia,10.7,28.8,100,177,64.2,85.4,57513,51244,27.5,16.4,63.3,25615,10214860,South Atlantic,medical
+Michigan,10.5,26.9,0,175,51.2,89.6,56539,51084,27.7,14.5,63.9,26613,9922576,East North Central,medical
+Ohio,9.7,26.1,0,284,28.9,89.1,40861,51075,26.9,14.2,63.3,26937,11613423,East North Central,decriminalized
+Indiana,8.7,24.1,0,184,18.9,87.8,35826,50532,27.5,15.6,62.8,25140,6619680,East North Central,misdemeanor
+Missouri,10.2,27.1,0,88,30.3,88.4,68742,50238,27.4,15.6,63.3,26126,6083672,West North Central,misdemeanor
+Montana,9.5,29.5,0,7,20.6,91.8,145546,49509,21.7,11.1,59.6,25989,1032949,Mountain,medical
+Florida,9.8,27.3,1350,378,42.4,86.9,53625,49426,23.3,14.4,60.8,26582,20271272,South Atlantic,medical
+Oklahoma,8,24.1,0,57,14.2,86.9,68595,48568,28.1,15.4,64.2,25229,3911338,West South Central,medical
+Idaho,8.2,25.9,0,20,31.8,89.5,82643,48275,24.6,10.1,61.4,23938,1654930,Mountain,misdemeanor
+North Carolina,9.9,28.4,301,206,59.9,85.8,48617.91,47830,27.1,19.3,63.4,25774,10042802,South Atlantic,decriminalized
+Tennessee,9,24.9,0,160,52.9,85.5,41235,47275,29,20,65,24922,6600299,East South Central,misdemeanor
+South Carolina,9.3,25.8,187,162,63.8,85.6,30061,47238,29.2,18.9,65.1,24596,4896146,South Atlantic,misdemeanor
+Louisiana,7.7,22.5,397,108,49.2,83.4,43204,45727,29.5,17.2,64.2,24800,4670724,West South Central,medical
+New Mexico,11.5,26.3,0,17,5.6,84.2,121298,45382,23.3,16.8,60.3,23683,2085109,Mountain,medical
+Kentucky,9.2,22.3,0,112,48.6,84.2,39486,45215,28.4,20.6,66.8,23684,4425092,East South Central,misdemeanor
+Alabama,8.7,23.5,53,95,70.6,84.3,50645,44765,30.1,16.7,65.4,23606,4858979,East South Central,misdemeanor
+West Virginia,7.4,19.2,0,76,77.2,85,24038,42019,30.6,20.9,66.8,22714,1844128,South Atlantic,medical
+Arkansas,7.5,21.1,0,57,55.1,84.8,52035,41995,28.1,16.4,64.7,22883,2978204,West South Central,medical
+Mississippi,7.7,20.7,44,63,61.9,82.3,46923,40593,34.4,17.8,67.4,21036,2992333,East South Central,decriminalized

@@ -1,0 +1,11 @@
+{
+  "file_name": "zoo",
+  "Number_of_Attributes": 16,
+  "classes_in_target": 7,
+  "fraction_of_numerical_attributes": 0.0,
+  "Columns_Outliers": [],
+  "Size": 101,
+  "Average_of_count_of_outliers": null,
+  "Normalised_Average_count_of_outliers": null,
+  "Avg_correlation": null
+}

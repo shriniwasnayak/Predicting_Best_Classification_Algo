@@ -1,0 +1,108 @@
+{
+  "file_name": "glaucoma",
+  "classes_in_target": 2,
+  "fraction_of_numerical_attributes": 1.0,
+  "Columns_Outliers": [
+    {
+      "column_name": "varg",
+      "list_of_outliers": [
+        2.3809608967284093,
+        2.3859754388746843,
+        2.8523278584782368,
+        2.6367025461884226,
+        5.159017245764627,
+        2.5614844139943007
+      ],
+      "count_of_outliers": 6
+    },
+    {
+      "column_name": "vari",
+      "list_of_outliers": [
+        2.7603833833067797,
+        2.6569283874890486,
+        2.950050875639288,
+        2.6052008895801837,
+        3.208688365183616
+      ],
+      "count_of_outliers": 5
+    },
+    {
+      "column_name": "phci",
+      "list_of_outliers": [
+        4.243366132985709,
+        2.898636691222471
+      ],
+      "count_of_outliers": 2
+    },
+    {
+      "column_name": "vars",
+      "list_of_outliers": [
+        2.352366752006861,
+        2.5291686092786403,
+        2.7943713951863094,
+        2.5114884235514623,
+        2.8297317666406645,
+        5.676241668716305,
+        3.501578824273424
+      ],
+      "count_of_outliers": 7
+    },
+    {
+      "column_name": "abri",
+      "list_of_outliers": [
+        4.426295441053745,
+        2.954065755889812
+      ],
+      "count_of_outliers": 2
+    },
+    {
+      "column_name": "tmg",
+      "list_of_outliers": [
+        2.6399697988780564
+      ],
+      "count_of_outliers": 1
+    },
+    {
+      "column_name": "hvc",
+      "list_of_outliers": [
+        2.3603841339350606,
+        5.0478576263853006,
+        2.9410111230446803
+      ],
+      "count_of_outliers": 3
+    },
+    {
+      "column_name": "vbrs",
+      "list_of_outliers": [
+        7.976472913735987,
+        2.3821633641803928,
+        2.128620095121587,
+        1.965043792503002,
+        1.8996132714555685,
+        2.3085540280020296,
+        3.4372305160702634
+      ],
+      "count_of_outliers": 7
+    },
+    {
+      "column_name": "mdic",
+      "list_of_outliers": [
+        2.4580535409759285,
+        3.4939448788671785,
+        2.6118186614441603,
+        2.9274418034579015,
+        2.8788843969942497
+      ],
+      "count_of_outliers": 5
+    },
+    {
+      "column_name": "mhcs",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    }
+  ],
+  "Size": 196,
+  "Average_of_count_of_outliers": 3.8,
+  "Normalised_Average_count_of_outliers": 0.019387755102040816,
+  "Avg_correlation": 0.4991542546397694
+}

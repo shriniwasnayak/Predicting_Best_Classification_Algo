@@ -1,0 +1,60 @@
+{
+  "file_name": "ecoli",
+  "classes_in_target": 8,
+  "fraction_of_numerical_attributes": 0.7142857142857143,
+  "Columns_Outliers": [
+    {
+      "column_name": "alm1",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "alm2",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "mcg",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "gvh",
+      "list_of_outliers": [
+        2.5686748877858445,
+        2.298288057492597,
+        2.703868302932468,
+        2.298288057492597,
+        2.4334814726392207,
+        2.4334814726392207,
+        3.3798353786655846,
+        2.4334814726392207,
+        2.2306913499192857,
+        2.4334814726392207,
+        2.298288057492597,
+        2.298288057492597,
+        2.2306913499192857
+      ],
+      "count_of_outliers": 13
+    },
+    {
+      "column_name": "aac",
+      "list_of_outliers": [
+        -2.78271584341888,
+        -4.092114563263072,
+        -3.6010900433215003,
+        2.700391295928676,
+        2.945903555899462,
+        2.700391295928676,
+        3.109578395879986,
+        2.782228715918938,
+        -2.7008784234286174
+      ],
+      "count_of_outliers": 9
+    }
+  ],
+  "Size": 336,
+  "Average_of_count_of_outliers": 4.4,
+  "Normalised_Average_count_of_outliers": 0.013095238095238096,
+  "Avg_correlation": 0.29445651422647817
+}

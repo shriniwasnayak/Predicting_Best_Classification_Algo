@@ -1,0 +1,75 @@
+{
+  "file_name": "wine",
+  "classes_in_target": 3,
+  "fraction_of_numerical_attributes": 1.0,
+  "Columns_Outliers": [
+    {
+      "column_name": "color-intensity",
+      "list_of_outliers": [
+        2.4837779619018776,
+        3.4354319244178964,
+        2.8947194457156127,
+        2.4318695639464587
+      ],
+      "count_of_outliers": 4
+    },
+    {
+      "column_name": "flavanoids",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "proline",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "alcohol",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "od280-od315",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "hue",
+      "list_of_outliers": [
+        3.301694215302033
+      ],
+      "count_of_outliers": 1
+    },
+    {
+      "column_name": "proanthocyanins",
+      "list_of_outliers": [
+        2.9594472729638026,
+        3.4850725120254245
+      ],
+      "count_of_outliers": 2
+    },
+    {
+      "column_name": "malic-acid",
+      "list_of_outliers": [
+        3.109192467158904,
+        2.848870154936072,
+        2.9745429953195086
+      ],
+      "count_of_outliers": 3
+    },
+    {
+      "column_name": "nonflavanoid-phenols",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "total-phenols",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    }
+  ],
+  "Size": 178,
+  "Average_of_count_of_outliers": 1.0,
+  "Normalised_Average_count_of_outliers": 0.0056179775280898875,
+  "Avg_correlation": 0.3736279943165722
+}

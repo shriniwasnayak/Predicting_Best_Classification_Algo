@@ -1,0 +1,112 @@
+{
+  "file_name": "state_marijuana_legalization_dataset",
+  "Number_of_Attributes": 14,
+  "classes_in_target": 4,
+  "fraction_of_numerical_attributes": 0.9285714285714286,
+  "Columns_Outliers": [
+    {
+      "column_name": "advanced_degrees",
+      "list_of_outliers": [
+        17.3,
+        16.6,
+        17.7
+      ],
+      "count_of_outliers": 3
+    },
+    {
+      "column_name": "bachelors_degrees",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "coastline_length",
+      "list_of_outliers": [
+        750,
+        6640,
+        840,
+        367,
+        1350,
+        397
+      ],
+      "count_of_outliers": 6
+    },
+    {
+      "column_name": "population_density",
+      "list_of_outliers": [
+        618,
+        1218,
+        741,
+        871,
+        485,
+        1021
+      ],
+      "count_of_outliers": 6
+    },
+    {
+      "column_name": "forest_cover",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "high_school_graduate_percent",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "land_area_miles",
+      "list_of_outliers": [
+        570641.0,
+        163696.0,
+        261232.0
+      ],
+      "count_of_outliers": 3
+    },
+    {
+      "column_name": "median_household_income",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "obese_adults_percent",
+      "list_of_outliers": [
+        34.4
+      ],
+      "count_of_outliers": 1
+    },
+    {
+      "column_name": "obese_children_percent",
+      "list_of_outliers": [
+        22.8
+      ],
+      "count_of_outliers": 1
+    },
+    {
+      "column_name": "overweight_adults_percent",
+      "list_of_outliers": [
+        55.0
+      ],
+      "count_of_outliers": 1
+    },
+    {
+      "column_name": "per_capita_income",
+      "list_of_outliers": [
+        39373
+      ],
+      "count_of_outliers": 1
+    },
+    {
+      "column_name": "population",
+      "list_of_outliers": [
+        39144818,
+        19795791,
+        27469114,
+        20271272
+      ],
+      "count_of_outliers": 4
+    }
+  ],
+  "Size": 50,
+  "Average_of_count_of_outliers": 2.0,
+  "Normalised_Average_count_of_outliers": 0.04,
+  "Avg_correlation": 0.33453533373077865
+}

@@ -1,0 +1,13 @@
+{
+  "file_name": "mushroom_dataset",
+  "Number_of_Attributes": 22,
+  "classes_in_target": 2,
+  "fraction_of_numerical_attributes": 0.0,
+  "Columns_Outliers": [],
+  "Size": 8416,
+  "Average_of_count_of_outliers": null,
+  "Normalised_Average_count_of_outliers": null,
+  "Avg_correlation": null,
+  "Avg_chi_score": 0.9090909090909091,
+  "Average_of_class_types": 5.318181818181818
+}

@@ -1,0 +1,13 @@
+{
+  "file_name": "bach_choral_set_dataset",
+  "Number_of_Attributes": 15,
+  "classes_in_target": 102,
+  "fraction_of_numerical_attributes": 0.06666666666666667,
+  "Columns_Outliers": [],
+  "Size": 5665,
+  "Average_of_count_of_outliers": null,
+  "Normalised_Average_count_of_outliers": null,
+  "Avg_correlation": null,
+  "Avg_chi_score": 0.945054945054945,
+  "Average_of_class_types": 3.2142857142857144
+}

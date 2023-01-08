@@ -1,0 +1,13 @@
+{
+  "file_name": "chess_king_rook_dataset",
+  "Number_of_Attributes": 6,
+  "classes_in_target": 18,
+  "fraction_of_numerical_attributes": 0.0,
+  "Columns_Outliers": [],
+  "Size": 28056,
+  "Average_of_count_of_outliers": null,
+  "Normalised_Average_count_of_outliers": null,
+  "Avg_correlation": null,
+  "Avg_chi_score": 0.5333333333333333,
+  "Average_of_class_types": 6.666666666666667
+}

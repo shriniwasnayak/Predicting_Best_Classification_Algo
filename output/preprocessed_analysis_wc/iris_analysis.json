@@ -1,0 +1,38 @@
+{
+  "file_name": "iris",
+  "classes_in_target": 3,
+  "fraction_of_numerical_attributes": 1.0,
+  "Columns_Outliers": [
+    {
+      "column_name": "petal_length",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "petal_width",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "sepal_length",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "sepal_width",
+      "list_of_outliers": [
+        3.114683910677436,
+        2.420475015281274,
+        2.651877980413329,
+        -2.438987252491841
+      ],
+      "count_of_outliers": 4
+    }
+  ],
+  "Size": 150,
+  "Average_of_count_of_outliers": 1.0,
+  "Normalised_Average_count_of_outliers": 0.006666666666666667,
+  "Avg_correlation": 0.5898157206151019,
+  "Avg_chi_score": null,
+  "Average_of_class_types": null
+}

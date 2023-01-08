@@ -1,0 +1,59 @@
+{
+  "file_name": "diamond_cut",
+  "Number_of_Attributes": 4,
+  "classes_in_target": 4,
+  "fraction_of_numerical_attributes": 0.75,
+  "Columns_Outliers": [
+    {
+      "column_name": "carat",
+      "list_of_outliers": [
+        3.02,
+        3.11,
+        2.31,
+        2.22,
+        3.65,
+        3.01,
+        2.14,
+        2.52,
+        2.15,
+        2.3,
+        2.8,
+        2.38,
+        2.75,
+        2.38,
+        2.33,
+        2.1
+      ],
+      "count_of_outliers": 16
+    },
+    {
+      "column_name": "depth",
+      "list_of_outliers": [
+        70.8,
+        69.8,
+        69.6,
+        69.1,
+        70.1,
+        69.7,
+        71.3,
+        69.4
+      ],
+      "count_of_outliers": 8
+    },
+    {
+      "column_name": "table",
+      "list_of_outliers": [
+        51.0,
+        64.0,
+        64.0,
+        64.0,
+        64.0
+      ],
+      "count_of_outliers": 5
+    }
+  ],
+  "Size": 599,
+  "Average_of_count_of_outliers": 9.666666666666666,
+  "Normalised_Average_count_of_outliers": 0.016138007790762382,
+  "Avg_correlation": 0.13928540864714403
+}

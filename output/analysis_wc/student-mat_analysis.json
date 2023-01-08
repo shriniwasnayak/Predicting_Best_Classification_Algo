@@ -1,0 +1,58 @@
+{
+  "file_name": "student-mat",
+  "classes_in_target": 18,
+  "fraction_of_numerical_attributes": 0.09375,
+  "Columns_Outliers": [
+    {
+      "column_name": "absences",
+      "list_of_outliers": [
+        25,
+        54,
+        26,
+        56,
+        24,
+        28,
+        22,
+        21,
+        75,
+        22,
+        30,
+        38,
+        22,
+        40,
+        23
+      ],
+      "count_of_outliers": 15
+    },
+    {
+      "column_name": "G1",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "G2",
+      "list_of_outliers": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "count_of_outliers": 13
+    }
+  ],
+  "Size": 395,
+  "Average_of_count_of_outliers": 9.333333333333334,
+  "Normalised_Average_count_of_outliers": 0.023628691983122365,
+  "Avg_correlation": 0.304965890313513,
+  "Avg_chi_score": 13.556180536828633,
+  "Average_of_class_types": 3.5517241379310347
+}

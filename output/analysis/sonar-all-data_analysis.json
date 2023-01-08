@@ -1,0 +1,676 @@
+{
+  "file_name": "sonar-all-data",
+  "Number_of_Attributes": 60,
+  "classes_in_target": 2,
+  "fraction_of_numerical_attributes": 1.0,
+  "Columns_Outliers": [
+    {
+      "column_name": "a",
+      "list_of_outliers": [
+        0.0762,
+        0.0856,
+        0.1313,
+        0.0715,
+        0.1371,
+        0.115,
+        0.0968,
+        0.079,
+        0.1083,
+        0.1088,
+        0.0731,
+        0.0707,
+        0.0721,
+        0.1021,
+        0.0712
+      ],
+      "count_of_outliers": 15
+    },
+    {
+      "column_name": "b",
+      "list_of_outliers": [
+        0.0956,
+        0.1632,
+        0.2339,
+        0.1065,
+        0.121,
+        0.1226,
+        0.1163,
+        0.107,
+        0.1278,
+        0.1249,
+        0.1135,
+        0.1252,
+        0.1574
+      ],
+      "count_of_outliers": 13
+    },
+    {
+      "column_name": "c",
+      "list_of_outliers": [
+        0.1321,
+        0.1636,
+        0.3059,
+        0.1526,
+        0.1268,
+        0.1997,
+        0.1385,
+        0.1665,
+        0.1447,
+        0.1219,
+        0.1276
+      ],
+      "count_of_outliers": 11
+    },
+    {
+      "column_name": "d",
+      "list_of_outliers": [
+        0.1408,
+        0.1732,
+        0.1252,
+        0.1421,
+        0.127,
+        0.4264,
+        0.1498,
+        0.2604,
+        0.1484,
+        0.166,
+        0.1496,
+        0.1644,
+        0.1497
+      ],
+      "count_of_outliers": 13
+    },
+    {
+      "column_name": "e",
+      "list_of_outliers": [
+        0.2565,
+        0.401,
+        0.3225,
+        0.2252,
+        0.2482
+      ],
+      "count_of_outliers": 5
+    },
+    {
+      "column_name": "f",
+      "list_of_outliers": [
+        0.2583,
+        0.2559,
+        0.307,
+        0.2587,
+        0.3823,
+        0.2611,
+        0.27699999999999997,
+        0.2431
+      ],
+      "count_of_outliers": 8
+    },
+    {
+      "column_name": "g",
+      "list_of_outliers": [
+        0.2947,
+        0.3008,
+        0.3729,
+        0.3016,
+        0.3322
+      ],
+      "count_of_outliers": 5
+    },
+    {
+      "column_name": "h",
+      "list_of_outliers": [
+        0.3481,
+        0.3771,
+        0.41100000000000003,
+        0.311,
+        0.3583,
+        0.34600000000000003,
+        0.4223,
+        0.45899999999999996,
+        0.4566,
+        0.4262,
+        0.3465
+      ],
+      "count_of_outliers": 11
+    },
+    {
+      "column_name": "i",
+      "list_of_outliers": [
+        0.5598,
+        0.4983,
+        0.5744,
+        0.5664,
+        0.5526,
+        0.6587,
+        0.6828,
+        0.5276
+      ],
+      "count_of_outliers": 8
+    },
+    {
+      "column_name": "j",
+      "list_of_outliers": [
+        0.6194,
+        0.5920000000000001,
+        0.5378,
+        0.6609,
+        0.5966,
+        0.5079,
+        0.5761,
+        0.7106,
+        0.5965,
+        0.5915
+      ],
+      "count_of_outliers": 10
+    },
+    {
+      "column_name": "k",
+      "list_of_outliers": [
+        0.6333,
+        0.5832,
+        0.7342,
+        0.6254,
+        0.6675
+      ],
+      "count_of_outliers": 5
+    },
+    {
+      "column_name": "l",
+      "list_of_outliers": [
+        0.6552,
+        0.706
+      ],
+      "count_of_outliers": 2
+    },
+    {
+      "column_name": "m",
+      "list_of_outliers": [
+        0.6919,
+        0.6343,
+        0.7022,
+        0.7131
+      ],
+      "count_of_outliers": 4
+    },
+    {
+      "column_name": "n",
+      "list_of_outliers": [
+        0.7797,
+        0.8198,
+        0.7067,
+        0.997,
+        0.7842
+      ],
+      "count_of_outliers": 5
+    },
+    {
+      "column_name": "o",
+      "list_of_outliers": [
+        1.0,
+        0.9137
+      ],
+      "count_of_outliers": 2
+    },
+    {
+      "column_name": "p",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "q",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "r",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "s",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "t",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "u",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "v",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "w",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "x",
+      "list_of_outliers": [
+        0.0239,
+        0.0248
+      ],
+      "count_of_outliers": 2
+    },
+    {
+      "column_name": "y",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "z",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "aa",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "ab",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "ac",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "ad",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "ae",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "af",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "ag",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "ah",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "ai",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "aj",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "ak",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "al",
+      "list_of_outliers": [
+        0.8814,
+        0.8409,
+        1.0,
+        0.9252,
+        0.9016,
+        0.9303,
+        0.948,
+        0.9136
+      ],
+      "count_of_outliers": 8
+    },
+    {
+      "column_name": "am",
+      "list_of_outliers": [
+        0.9857,
+        0.8753,
+        0.9709,
+        0.8849,
+        0.8827
+      ],
+      "count_of_outliers": 5
+    },
+    {
+      "column_name": "an",
+      "list_of_outliers": [
+        0.9167,
+        0.9297,
+        0.8979,
+        0.8116
+      ],
+      "count_of_outliers": 4
+    },
+    {
+      "column_name": "ao",
+      "list_of_outliers": [
+        0.7322,
+        0.8995,
+        0.7751,
+        0.7664
+      ],
+      "count_of_outliers": 4
+    },
+    {
+      "column_name": "ap",
+      "list_of_outliers": [
+        0.7911,
+        0.7247,
+        0.8246,
+        0.7988
+      ],
+      "count_of_outliers": 4
+    },
+    {
+      "column_name": "aq",
+      "list_of_outliers": [
+        0.7733,
+        0.6287,
+        0.5826,
+        0.7517,
+        0.6163
+      ],
+      "count_of_outliers": 5
+    },
+    {
+      "column_name": "ar",
+      "list_of_outliers": [
+        0.7762,
+        0.5245,
+        0.5508,
+        0.4921,
+        0.5762,
+        0.5379,
+        0.495,
+        0.5772,
+        0.5663,
+        0.4921,
+        0.5027
+      ],
+      "count_of_outliers": 11
+    },
+    {
+      "column_name": "as",
+      "list_of_outliers": [
+        0.4407,
+        0.6009,
+        0.5214,
+        0.4693,
+        0.4374,
+        0.5616,
+        0.4894,
+        0.5835,
+        0.6149,
+        0.6448,
+        0.5760000000000001,
+        0.5858,
+        0.5438,
+        0.47100000000000003,
+        0.5013,
+        0.4485,
+        0.4373,
+        0.5907,
+        0.4624,
+        0.5749,
+        0.5084,
+        0.5294,
+        0.4892,
+        0.7034
+      ],
+      "count_of_outliers": 24
+    },
+    {
+      "column_name": "at",
+      "list_of_outliers": [
+        0.5507,
+        0.4514,
+        0.4232,
+        0.4305,
+        0.5777,
+        0.5692,
+        0.5123,
+        0.6214,
+        0.5293,
+        0.4442,
+        0.7292,
+        0.5649,
+        0.4042,
+        0.4803,
+        0.4262,
+        0.5904
+      ],
+      "count_of_outliers": 16
+    },
+    {
+      "column_name": "au",
+      "list_of_outliers": [
+        0.4331,
+        0.3096,
+        0.3241,
+        0.4315,
+        0.3385,
+        0.3016,
+        0.3287,
+        0.5522,
+        0.3195,
+        0.3123,
+        0.3877,
+        0.3511,
+        0.4069
+      ],
+      "count_of_outliers": 13
+    },
+    {
+      "column_name": "av",
+      "list_of_outliers": [
+        0.2905,
+        0.2559,
+        0.2945,
+        0.264,
+        0.3339,
+        0.2484,
+        0.2779,
+        0.2458,
+        0.2761
+      ],
+      "count_of_outliers": 9
+    },
+    {
+      "column_name": "aw",
+      "list_of_outliers": [
+        0.1981,
+        0.1366,
+        0.1326,
+        0.1474,
+        0.1794,
+        0.1608,
+        0.1427,
+        0.1584
+      ],
+      "count_of_outliers": 8
+    },
+    {
+      "column_name": "ax",
+      "list_of_outliers": [
+        0.0469,
+        0.0779,
+        0.0637,
+        0.0473,
+        0.0507,
+        0.0499,
+        0.0469,
+        0.0772,
+        0.0628,
+        0.0475,
+        0.0825,
+        0.0462,
+        0.0493,
+        0.051
+      ],
+      "count_of_outliers": 14
+    },
+    {
+      "column_name": "ay",
+      "list_of_outliers": [
+        0.0426,
+        0.0396,
+        0.048,
+        0.0798,
+        0.0456,
+        0.1004
+      ],
+      "count_of_outliers": 6
+    },
+    {
+      "column_name": "ax.1",
+      "list_of_outliers": [
+        0.0346,
+        0.0331,
+        0.0386,
+        0.0362,
+        0.0331,
+        0.0321,
+        0.0455,
+        0.0444,
+        0.0376,
+        0.0339,
+        0.0432,
+        0.0459,
+        0.0709
+      ],
+      "count_of_outliers": 13
+    },
+    {
+      "column_name": "ba",
+      "list_of_outliers": [
+        0.039,
+        0.0317,
+        0.0361
+      ],
+      "count_of_outliers": 3
+    },
+    {
+      "column_name": "bb",
+      "list_of_outliers": [
+        0.0344,
+        0.0303,
+        0.0294,
+        0.0352,
+        0.028999999999999998,
+        0.0335,
+        0.0309
+      ],
+      "count_of_outliers": 7
+    },
+    {
+      "column_name": "bc",
+      "list_of_outliers": [
+        0.028999999999999998,
+        0.0277,
+        0.027000000000000003,
+        0.0372,
+        0.0276,
+        0.0376,
+        0.0281,
+        0.0252,
+        0.0447
+      ],
+      "count_of_outliers": 9
+    },
+    {
+      "column_name": "bd",
+      "list_of_outliers": [
+        0.0244,
+        0.0277,
+        0.0212,
+        0.0249,
+        0.0326,
+        0.0394
+      ],
+      "count_of_outliers": 6
+    },
+    {
+      "column_name": "be",
+      "list_of_outliers": [
+        0.0316,
+        0.0229,
+        0.0217,
+        0.0258,
+        0.0242,
+        0.023,
+        0.0218,
+        0.0355
+      ],
+      "count_of_outliers": 8
+    },
+    {
+      "column_name": "bf",
+      "list_of_outliers": [
+        0.0224,
+        0.0377,
+        0.0321,
+        0.0244,
+        0.0288,
+        0.0205,
+        0.0225,
+        0.0214,
+        0.044000000000000004
+      ],
+      "count_of_outliers": 9
+    },
+    {
+      "column_name": "bg",
+      "list_of_outliers": [
+        0.0255,
+        0.0294,
+        0.022000000000000002,
+        0.0332,
+        0.0228,
+        0.0246,
+        0.021,
+        0.0245,
+        0.0207,
+        0.0364,
+        0.0227,
+        0.0243
+      ],
+      "count_of_outliers": 12
+    },
+    {
+      "column_name": "bh",
+      "list_of_outliers": [
+        0.018000000000000002,
+        0.0173,
+        0.0439,
+        0.0231,
+        0.0198,
+        0.0187,
+        0.0218,
+        0.0208
+      ],
+      "count_of_outliers": 8
+    }
+  ],
+  "Size": 208,
+  "Average_of_count_of_outliers": 5.416666666666667,
+  "Normalised_Average_count_of_outliers": 0.026041666666666668,
+  "Avg_correlation": 0.2293956642548003
+}

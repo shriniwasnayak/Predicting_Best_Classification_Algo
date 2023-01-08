@@ -1,0 +1,53 @@
+{
+  "file_name": "seeds",
+  "classes_in_target": 3,
+  "fraction_of_numerical_attributes": 1.0,
+  "Columns_Outliers": [
+    {
+      "column_name": "V7",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "V1",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "V5",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "V2",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "V4",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "V6",
+      "list_of_outliers": [
+        3.170589851612062,
+        3.076588157133168
+      ],
+      "count_of_outliers": 2
+    },
+    {
+      "column_name": "V3",
+      "list_of_outliers": [
+        -2.6682362931542394,
+        -2.663994167725072,
+        -2.591878035429235
+      ],
+      "count_of_outliers": 3
+    }
+  ],
+  "Size": 210,
+  "Average_of_count_of_outliers": 0.7142857142857143,
+  "Normalised_Average_count_of_outliers": 0.003401360544217687,
+  "Avg_correlation": 0.6115307553914445
+}

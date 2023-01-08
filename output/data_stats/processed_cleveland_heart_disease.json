@@ -1,0 +1,189 @@
+{
+  "file_name": "processed_cleveland_heart_disease",
+  "Columns_Outliers": [
+    {
+      "column_name": "age",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "sex",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "cp",
+      "list_of_outliers": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "count_of_outliers": 23
+    },
+    {
+      "column_name": "trestbps",
+      "list_of_outliers": [
+        172.0,
+        180.0,
+        200.0,
+        174.0,
+        178.0,
+        192.0,
+        180.0,
+        178.0,
+        180.0
+      ],
+      "count_of_outliers": 9
+    },
+    {
+      "column_name": "chol",
+      "list_of_outliers": [
+        417.0,
+        407.0,
+        564.0,
+        394.0,
+        409.0
+      ],
+      "count_of_outliers": 5
+    },
+    {
+      "column_name": "fbs",
+      "list_of_outliers": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "count_of_outliers": 45
+    },
+    {
+      "column_name": "restecg",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "thalach",
+      "list_of_outliers": [
+        71.0
+      ],
+      "count_of_outliers": 1
+    },
+    {
+      "column_name": "exang",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "oldpeak",
+      "list_of_outliers": [
+        6.2,
+        5.6,
+        4.2,
+        4.2,
+        4.4
+      ],
+      "count_of_outliers": 5
+    },
+    {
+      "column_name": "slope",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "ca",
+      "list_of_outliers": [
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0,
+        3.0
+      ],
+      "count_of_outliers": 20
+    },
+    {
+      "column_name": "thal",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    }
+  ],
+  "Size": 303,
+  "Average_of_count_of_outliers": 8.307692307692308,
+  "Normalised_Average_count_of_outliers": 0.02741812642802742,
+  "Avg_correlation": 0.1572955532512694
+}

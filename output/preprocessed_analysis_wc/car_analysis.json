@@ -1,0 +1,12 @@
+{
+  "file_name": "car",
+  "classes_in_target": 4,
+  "fraction_of_numerical_attributes": 0.0,
+  "Columns_Outliers": [],
+  "Size": 1728,
+  "Average_of_count_of_outliers": null,
+  "Normalised_Average_count_of_outliers": null,
+  "Avg_correlation": null,
+  "Avg_chi_score": 36.009137981538636,
+  "Average_of_class_types": 2.0
+}

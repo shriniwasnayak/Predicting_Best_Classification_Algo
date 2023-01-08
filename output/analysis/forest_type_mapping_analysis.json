@@ -1,0 +1,435 @@
+{
+  "file_name": "forest_type_mapping",
+  "Number_of_Attributes": 27,
+  "classes_in_target": 4,
+  "fraction_of_numerical_attributes": 1.0,
+  "Columns_Outliers": [
+    {
+      "column_name": "b1",
+      "list_of_outliers": [
+        98,
+        105
+      ],
+      "count_of_outliers": 2
+    },
+    {
+      "column_name": "b2",
+      "list_of_outliers": [
+        85,
+        89,
+        98,
+        160
+      ],
+      "count_of_outliers": 4
+    },
+    {
+      "column_name": "b3",
+      "list_of_outliers": [
+        101,
+        101,
+        95,
+        108,
+        107,
+        125,
+        196,
+        95,
+        97
+      ],
+      "count_of_outliers": 9
+    },
+    {
+      "column_name": "b4",
+      "list_of_outliers": [
+        54,
+        172,
+        152,
+        144
+      ],
+      "count_of_outliers": 4
+    },
+    {
+      "column_name": "b5",
+      "list_of_outliers": [
+        96,
+        92,
+        90,
+        97,
+        98
+      ],
+      "count_of_outliers": 5
+    },
+    {
+      "column_name": "b6",
+      "list_of_outliers": [
+        136,
+        131,
+        130,
+        136,
+        130
+      ],
+      "count_of_outliers": 5
+    },
+    {
+      "column_name": "b7",
+      "list_of_outliers": [
+        139
+      ],
+      "count_of_outliers": 1
+    },
+    {
+      "column_name": "b8",
+      "list_of_outliers": [
+        47,
+        42,
+        37,
+        54,
+        44,
+        50,
+        36,
+        53,
+        70,
+        37,
+        52,
+        35,
+        54,
+        38,
+        82,
+        35,
+        39,
+        56,
+        46,
+        35,
+        46,
+        38,
+        40,
+        47,
+        43,
+        42,
+        39,
+        55,
+        32,
+        48,
+        56,
+        34,
+        39,
+        38,
+        43,
+        36
+      ],
+      "count_of_outliers": 36
+    },
+    {
+      "column_name": "b9",
+      "list_of_outliers": [
+        83,
+        76,
+        85,
+        86,
+        80,
+        86,
+        109,
+        79,
+        90,
+        108,
+        96,
+        85,
+        76,
+        76,
+        83,
+        77,
+        76,
+        80,
+        92
+      ],
+      "count_of_outliers": 19
+    },
+    {
+      "column_name": "pred_minus_obs_H_b1",
+      "list_of_outliers": [
+        7.66
+      ],
+      "count_of_outliers": 1
+    },
+    {
+      "column_name": "pred_minus_obs_H_b2",
+      "list_of_outliers": [
+        -33.92,
+        -37.5,
+        -50.31,
+        -112.6
+      ],
+      "count_of_outliers": 4
+    },
+    {
+      "column_name": "pred_minus_obs_H_b3",
+      "list_of_outliers": [
+        -3.44,
+        -2.61,
+        2.59,
+        -10.87,
+        -12.28,
+        -34.91,
+        -106.12,
+        2.69,
+        1.47,
+        0.06,
+        2.87,
+        0.18
+      ],
+      "count_of_outliers": 12
+    },
+    {
+      "column_name": "pred_minus_obs_H_b4",
+      "list_of_outliers": [
+        40.82,
+        -77.01,
+        -51.16
+      ],
+      "count_of_outliers": 3
+    },
+    {
+      "column_name": "pred_minus_obs_H_b5",
+      "list_of_outliers": [
+        -70.58,
+        -66.51,
+        -65.59,
+        -71.86,
+        -73.29
+      ],
+      "count_of_outliers": 5
+    },
+    {
+      "column_name": "pred_minus_obs_H_b6",
+      "list_of_outliers": [
+        -66.15,
+        -75.28,
+        -70.45,
+        -71.75,
+        -66.06,
+        -69.99,
+        -76.09,
+        -70.47
+      ],
+      "count_of_outliers": 8
+    },
+    {
+      "column_name": "pred_minus_obs_H_b7",
+      "list_of_outliers": [
+        -62.74
+      ],
+      "count_of_outliers": 1
+    },
+    {
+      "column_name": "pred_minus_obs_H_b8",
+      "list_of_outliers": [
+        -16.85,
+        -12.88,
+        -5.94,
+        -24.34,
+        -14.5,
+        -20.94,
+        -5.12,
+        -24.11,
+        -40.84,
+        -7.74,
+        -22.3,
+        -6.15,
+        -23.42,
+        -9.3,
+        -52.0,
+        -6.17,
+        -8.36,
+        -26.99,
+        10.83,
+        -14.94,
+        -6.05,
+        -16.71,
+        -7.4,
+        -10.79,
+        -17.95,
+        -13.77,
+        -11.81,
+        -8.03,
+        -25.72,
+        -18.2,
+        -27.03,
+        -5.02,
+        -9.56,
+        -8.43,
+        -13.67,
+        -6.73
+      ],
+      "count_of_outliers": 36
+    },
+    {
+      "column_name": "pred_minus_obs_H_b9",
+      "list_of_outliers": [
+        -26.44,
+        -20.64,
+        -28.44,
+        -29.84,
+        -24.71,
+        -30.97,
+        -53.53,
+        -17.87,
+        -23.61,
+        -18.15,
+        -33.37,
+        -52.4,
+        -19.31,
+        -41.04,
+        -28.14,
+        -18.19,
+        -21.35,
+        -19.77,
+        -20.43,
+        -28.17,
+        -21.94,
+        -20.05,
+        -24.92,
+        -37.12,
+        -17.18
+      ],
+      "count_of_outliers": 25
+    },
+    {
+      "column_name": "pred_minus_obs_S_b1",
+      "list_of_outliers": [
+        -4.81,
+        5.13,
+        -9.39,
+        -8.26,
+        -32.95,
+        -6.65,
+        -32.24,
+        -7.81
+      ],
+      "count_of_outliers": 8
+    },
+    {
+      "column_name": "pred_minus_obs_S_b2",
+      "list_of_outliers": [
+        -8.8,
+        -6.02,
+        12.46,
+        -6.19,
+        -6.07
+      ],
+      "count_of_outliers": 5
+    },
+    {
+      "column_name": "pred_minus_obs_S_b3",
+      "list_of_outliers": [
+        2.27,
+        7.37,
+        2.86,
+        -10.83,
+        -11.21,
+        1.84
+      ],
+      "count_of_outliers": 6
+    },
+    {
+      "column_name": "pred_minus_obs_S_b4",
+      "list_of_outliers": [
+        -34.92,
+        -39.27,
+        -5.4,
+        -8.54,
+        -35.97,
+        -34.61,
+        1.88,
+        -3.51,
+        -6.14,
+        -3.82,
+        -36.72,
+        -35.23,
+        -40.37,
+        -4.75,
+        -35.11,
+        -36.29,
+        -7.12
+      ],
+      "count_of_outliers": 17
+    },
+    {
+      "column_name": "pred_minus_obs_S_b5",
+      "list_of_outliers": [
+        -2.34,
+        -2.43,
+        0.65,
+        0.47,
+        0.44,
+        0.51,
+        -2.55,
+        3.44,
+        -3.27,
+        -2.77,
+        0.83,
+        -2.38,
+        -2.43,
+        -2.53
+      ],
+      "count_of_outliers": 14
+    },
+    {
+      "column_name": "pred_minus_obs_S_b6",
+      "list_of_outliers": [
+        -0.04,
+        3.94,
+        -0.26
+      ],
+      "count_of_outliers": 3
+    },
+    {
+      "column_name": "pred_minus_obs_S_b7",
+      "list_of_outliers": [
+        -5.61,
+        -7.13,
+        -6.78,
+        3.67,
+        -6.17,
+        -2.95,
+        -34.14,
+        -5.43
+      ],
+      "count_of_outliers": 8
+    },
+    {
+      "column_name": "pred_minus_obs_S_b8",
+      "list_of_outliers": [
+        -5.2,
+        -8.87,
+        -7.99,
+        -5.74,
+        -6.33,
+        -7.07,
+        2.24,
+        4.26,
+        2.24,
+        8.84,
+        2.12,
+        -5.22,
+        -6.65
+      ],
+      "count_of_outliers": 13
+    },
+    {
+      "column_name": "pred_minus_obs_S_b9",
+      "list_of_outliers": [
+        -10.83,
+        -10.81,
+        -8.76,
+        -9.18,
+        2.82,
+        7.79,
+        -8.99
+      ],
+      "count_of_outliers": 7
+    }
+  ],
+  "Size": 198,
+  "Average_of_count_of_outliers": 9.666666666666666,
+  "Normalised_Average_count_of_outliers": 0.04882154882154882,
+  "Avg_correlation": 0.2839362002140591
+}

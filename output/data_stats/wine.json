@@ -1,0 +1,102 @@
+{
+  "file_name": "wine",
+  "Columns_Outliers": [
+    {
+      "column_name": "alcohol",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "malic-acid",
+      "list_of_outliers": [
+        5.8,
+        5.51,
+        5.65
+      ],
+      "count_of_outliers": 3
+    },
+    {
+      "column_name": "ash",
+      "list_of_outliers": [
+        3.22,
+        1.36,
+        3.23
+      ],
+      "count_of_outliers": 3
+    },
+    {
+      "column_name": "ash-alcalinity",
+      "list_of_outliers": [
+        10.6,
+        30.0,
+        28.5,
+        28.5
+      ],
+      "count_of_outliers": 4
+    },
+    {
+      "column_name": "magnesium",
+      "list_of_outliers": [
+        151,
+        139,
+        136,
+        162
+      ],
+      "count_of_outliers": 4
+    },
+    {
+      "column_name": "total-phenols",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "flavanoids",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "nonflavanoid-phenols",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "proanthocyanins",
+      "list_of_outliers": [
+        3.28,
+        3.58
+      ],
+      "count_of_outliers": 2
+    },
+    {
+      "column_name": "color-intensity",
+      "list_of_outliers": [
+        10.8,
+        13.0,
+        11.75,
+        10.68
+      ],
+      "count_of_outliers": 4
+    },
+    {
+      "column_name": "hue",
+      "list_of_outliers": [
+        1.71
+      ],
+      "count_of_outliers": 1
+    },
+    {
+      "column_name": "od280-od315",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    },
+    {
+      "column_name": "proline",
+      "list_of_outliers": [],
+      "count_of_outliers": 0
+    }
+  ],
+  "Size": 178,
+  "Average_of_count_of_outliers": 1.6153846153846154,
+  "Normalised_Average_count_of_outliers": 0.009075194468452896,
+  "Avg_correlation": 0.3049574813503493
+}

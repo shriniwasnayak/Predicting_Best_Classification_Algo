@@ -1,0 +1,132 @@
+1) as it is naive :
+
+k = 5
+test_size = 0.4
+accuracy = 0.58
+
+
+2) remove values where numerical < 0.5
+
+k = 3
+test_size = 0.2
+accuracy = 0.8
+
+
+3) delete all values where numerical < 0.5
+
+k = 3
+test_size = 0.25
+accuracy = 0.83
+
+
+4) as it is efficient :
+
+k = 2
+test_size = 0.1
+accuracy = 0.66
+
+
+5) remove values where numerical <= 0.5
+
+k = 5
+test_size = 0.2
+accuracy = 0.8
+
+
+6) naive_wc as it is
+
+k = 3
+test_size = 0.4
+accuracy = 0.583
+
+
+7) delete all values where numerical < 0.5 
+
+k = 3
+test_size = 0.25
+accuracy = 0.83
+
+
+8) delte all values where numerical > 0.5
+
+k = 3
+test_size = 0.1
+accuracy = 0.25
+
+
+9) as it is efficient_wc 
+
+k = 3
+test_size = 0.1
+accuracy = 0.75
+
+
+10) delete all values where numerical < 0.5
+
+k = 5
+test_size = 0.25
+accuracy = 0.83
+
+
+11) delete all values where numrical >= 0.5
+
+k = 3
+test_size = 0.1
+accuracy = 0.5
+
+========================================================
+
+12) naive with target classes
+
+k = 5
+test_size = 0.1
+accuracy = 0.75
+
+
+13) delete all values where numerical < 0.5
+
+k = 3/5
+test_size = 0.25
+accuracy = 0.83 
+
+
+14) efficient with target classes
+
+k = 1-10
+test_size = 0.1
+accuracy = 0.75
+
+
+15) delete all values where numerical < 0.5
+
+k = 5-10
+test_size = 0.25
+accuracy = 0.83
+
+
+16) naive_wc with TC and AC
+
+k = 3
+test_size = 0.4
+accuracy = 0.583
+
+
+17) delete all values where numerical < 0.5
+
+k = 3
+test_size = 0.25
+accuracy = 0.83
+
+
+18) efficient_wc with TC and AC
+
+k = 3
+test_size = 0.1
+accuracy = 0.75
+
+
+19) delete all values where numerical < 0.5
+
+k = 5
+test_size = 0.25
+accuracy = 0.83
